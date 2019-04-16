@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Crossroads", "01.Crossroads\01.Crossroads.csproj", "{7899AD84-A86E-4B36-A345-D0C54D236C06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TicketTrouble", "03.TicketTrouble\03.TicketTrouble.csproj", "{DC7CA89A-0BC8-4B9B-9F87-4ACFF815B463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ParkingFeud", "02.ParkingFeud\02.ParkingFeud.csproj", "{4B4F78D0-976F-4288-B09F-ACDC03409E59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7899AD84-A86E-4B36-A345-D0C54D236C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7899AD84-A86E-4B36-A345-D0C54D236C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7899AD84-A86E-4B36-A345-D0C54D236C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7CA89A-0BC8-4B9B-9F87-4ACFF815B463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7CA89A-0BC8-4B9B-9F87-4ACFF815B463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7CA89A-0BC8-4B9B-9F87-4ACFF815B463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7CA89A-0BC8-4B9B-9F87-4ACFF815B463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4F78D0-976F-4288-B09F-ACDC03409E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4F78D0-976F-4288-B09F-ACDC03409E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4F78D0-976F-4288-B09F-ACDC03409E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4F78D0-976F-4288-B09F-ACDC03409E59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
